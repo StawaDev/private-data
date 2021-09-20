@@ -1,5 +1,12 @@
 {
     "jkt-48": {
+        "Indah": {
+            "Indah": "Indah/インダー（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318227&_=1632133448806",
+            "url-room": "https://www.showroom-live.com/JKT48_Indah",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318227&_available=1&_=1632133448806"
+    },
+        
         "Dey": {
             "Dey": "Dey /デイ（JKT48）",
             "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318219&_=1632122713711",
