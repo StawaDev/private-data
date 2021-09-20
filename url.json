@@ -1,11 +1,13 @@
 {
     "jkt-48": {
         "Dey": {
+            "Dey": "Dey /デイ（JKT48）",
             "url-room": "https://www.showroom-live.com/JKT48_Dey",
             "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318219&_available=1&_=1632102695421"
         },
 
         "Shani": {
+            "Shani": "Shani/シャニ（JKT48）",
             "url-room": "https://www.showroom-live.com/JKT48_Shani",
             "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318207&_available=1&_=1632102262047"
         }
