@@ -4,7 +4,7 @@
             "Testo": "成瀬月咲@いちぜん！",
             "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=335324&_=1632194941223",
             "url-room": "https://www.showroom-live.com/1zen_tsukasa",
-            "url-stream": "ttps://www.showroom-live.com/api/live/streaming_url?room_id=335324&abr_available=1&_=1632194941226"
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=335324&abr_available=1&_=1632194941226"
         }
     },
 
