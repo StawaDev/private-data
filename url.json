@@ -1,4 +1,11 @@
 {
+    "other": {
+        "PrivateTest": "『初コメ大歓迎♥』桜坂ともみの隠れ家🐶",
+        "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=272099&_=1632191386192",
+        "url-room": "https://www.showroom-live.com/idol-tomomi",
+        "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=272099&abr_available=1&_=1632191386195"
+    },
+
     "jkt-48": {
         "Indah": {
             "Indah": "Indah/インダー（JKT48）",
