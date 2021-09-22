@@ -1,10 +1,10 @@
 {
     "other": {
         "PrivateTest": {
-            "Testo": "成瀬月咲@いちぜん！",
-            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=335324&_=1632194941223",
-            "url-room": "https://www.showroom-live.com/1zen_tsukasa",
-            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=335324&abr_available=1&_=1632194941226"
+            "Testo": "南いちご【イケてるハーツ】",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=347371&_=1632301293482",
+            "url-room": "https://www.showroom-live.com/iketeru_ichigo",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=347371&abr_available=1&_=1632301293485"
         }
     },
 
