@@ -26,6 +26,12 @@
             "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318207&_=1632123388203",
             "url-room": "https://www.showroom-live.com/JKT48_Shani",
             "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318207&_available=1&_=1632102262047"
+        },
+        "Ashel": {
+            "Ashel": "Ashel /アシェル（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318210&_=1632820868296",
+            "url-room": "https://www.showroom-live.com/JKT48_Ashel",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318210&_=1632820868299"
         }
     }
 }
