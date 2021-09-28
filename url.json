@@ -32,6 +32,11 @@
             "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318210&_=1632820868296",
             "url-room": "https://www.showroom-live.com/JKT48_Ashel",
             "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318210&_=1632820868299"
+        },
+        "Angelina": {
+            "Angelina": "Christy/クリスティー（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318112&_=1632826635524",
+            "url-room": "https://www.showroom-live.com/api/live/streaming_url?room_id=318112&_=1632826635527"
         }
     }
 }
