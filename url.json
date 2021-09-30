@@ -7,7 +7,7 @@
             "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=347371&abr_available=1&_=1632301293485"
         }
     },
-    
+
     "jkt-48": {
         "Indah": {
             "Indah": "Indah/インダー（JKT48）",
@@ -38,6 +38,54 @@
             "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318112&_=1632826635524",
             "url-room": "https://www.showroom-live.com/JKT48_Christy",
             "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318112&abr_available=1&_=1632826635527"
+        },
+        "Yessica": {
+            "Yessica": "Chika/チカ（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318209&_=1632928721309",
+            "url-room": "https://www.showroom-live.com/JKT48_Chika",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318209&abr_available=1&_=1632928721312"
+        },
+        "Helisma": {
+            "Helisma": "Eli/エリ（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318118&_=1633003611208",
+            "url-room": "https://www.showroom-live.com/JKT48_Eli",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318118&abr_available=1&_=1633003611211"
+        },
+        "Eve": {
+            "Eve": "Eve/イヴ（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=317731&_=1633004053004",
+            "url-room": "https://www.showroom-live.com/JKT48_Eve",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=317731&abr_available=1&_=1633004053007"
+        },
+        "Gita": {
+            "Gita": "Gita/ギタ（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318117&_=1633004675582",
+            "url-room": "https://www.showroom-live.com/JKT48_Gita",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318117&abr_available=1&_=1633005327994"
+        },
+        "Jessica": {
+            "Jessica": "Jessi/ジェシ（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318228&_=1633005665228",
+            "url-room": "https://www.showroom-live.com/JKT48_Jessi",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318228&abr_available=1&_=1633005665231"
+        },
+        "Flora": {
+            "Flora": "Flora/フロラ（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318224&_=1633006025985",
+            "url-room": "https://www.showroom-live.com/JKT48_Flora",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318224&abr_available=1&_=1633006025988"
+        },
+        "Azizi": {
+            "Azizi": "Zee/ジー（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=317727&_=1633006163785",
+            "url-room": "https://www.showroom-live.com/JKT48_Zee",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=317727&abr_available=1&_=1633006163788"
+        },
+        "Gracia": {
+            "Gracia": "Gracia/グラシア（JKT48）",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318208&_=1633006582331",
+            "url-room": "https://www.showroom-live.com/JKT48_Gracia",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318208&abr_available=1&_=1633006582334"
         }
     }
 }
