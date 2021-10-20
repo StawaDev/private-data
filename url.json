@@ -89,7 +89,7 @@
         },
         "Sisca": {
             "Sisca": "Sisca/シスカ（JKT48）",
-            "url-api-room": "",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=317739&_=1634735897564",
             "url-room": "https://www.showroom-live.com/JKT48_Sisca",
             "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=317739&abr_available=1&_=1634734967859"
         }
