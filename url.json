@@ -86,6 +86,12 @@
             "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=318208&_=1633006582331",
             "url-room": "https://www.showroom-live.com/JKT48_Gracia",
             "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=318208&abr_available=1&_=1633006582334"
+        },
+        "Sisca": {
+            "Sisca": "Sisca/シスカ（JKT48）",
+            "url-api-room": "",
+            "url-room": "https://www.showroom-live.com/JKT48_Sisca",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=317739&abr_available=1&_=1634734967859"
         }
     }
 }
