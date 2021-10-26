@@ -1,10 +1,10 @@
 {
     "other": {
         "PrivateTest": {
-            "Testo": "南いちご【イケてるハーツ】",
-            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=347371&_=1632301293482",
-            "url-room": "https://www.showroom-live.com/iketeru_ichigo",
-            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=347371&abr_available=1&_=1632301293485"
+            "Testo": "Yori/ヨリ",
+            "url-api-room": "https://www.showroom-live.com/api/live/live_info?room_id=317726&_=1635254899022",
+            "url-room": "https://www.showroom-live.com/Aurel_Mayori",
+            "url-stream": "https://www.showroom-live.com/api/live/streaming_url?room_id=317726&abr_available=1&_=1635254899024"
         }
     },
 
